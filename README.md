@@ -20,14 +20,9 @@ AirZRar is a tool created to perform brute force attacks on passwords of Rar and
 
 > ### setup:
 > ```
-> pip3 install rarfile
+> pip3 install rarfile colorama
 > ```
-> ```
-> pip3 install colorama
-> ```
-> ```
-> pip3 install zipfile
-> ```
+
 
 > ### run program:
 > ```
@@ -36,6 +31,6 @@ AirZRar is a tool created to perform brute force attacks on passwords of Rar and
 
 # Contributors
 
-@JProgrammer-it
+@JProgrammer-it  |  Discord: reyz#5224
 
-@C0MPL3XDEV
+@C0MPL3XDEV      |  Discord: C0MPL3X#6285
