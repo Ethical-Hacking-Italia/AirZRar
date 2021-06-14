@@ -15,8 +15,7 @@ AirZRar is a tool created to perform brute force attacks on passwords of Rar and
 # Requirements
 * Python Installed
 * Rarfile Module
-* Zipfile Module
-* Colorama
+* Colorama Module
 
 > ### setup:
 > ```
@@ -29,8 +28,12 @@ AirZRar is a tool created to perform brute force attacks on passwords of Rar and
 > python3 main.py
 > ```
 
+<hr>
+
 # Contributors
 
-@JProgrammer-it  |  Discord: reyz#5224
+> @JProgrammer-it
+> Discord: reyz#5224
 
-@C0MPL3XDEV      |  Discord: C0MPL3X#6285
+> @C0MPL3XDEV
+> Discord: C0MPL3X#6285
