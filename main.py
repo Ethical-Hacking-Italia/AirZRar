@@ -1,3 +1,10 @@
+"""
+
+            © JProgrammer-it, C0MPL3XDEV | LICENSE: GNU General Public License v2.0
+
+"""
+
+
 from colorama import Fore
 import colorama, os
 colorama.init(autoreset=True)
